@@ -1,0 +1,10 @@
+* single-threaded-ccl
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/qitab/single-threaded-ccl.git   |
+| commit  |   |
+| systems | single-threaded-ccl |
+|---------+-------------------------------------------|
+
