@@ -1,10 +1,9 @@
 * single-threaded-ccl
 
+A simple patch to allow Clozure CL (CCL) to run in single-threaded mode.
 
-
-|---------+-------------------------------------------|
-| source  | git:https://gitlab.common-lisp.net/qitab/single-threaded-ccl.git   |
-| commit  |   |
-| systems | single-threaded-ccl |
-|---------+-------------------------------------------|
-
+|---------+------------------------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/qitab/single-threaded-ccl.git |
+| commit  | 3cac682                                                          |
+| systems | single-threaded-ccl                                              |
+|---------+------------------------------------------------------------------|
